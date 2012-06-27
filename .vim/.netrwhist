@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/mkuhnt/Development/tripledot/medas-support/app'
+let g:netrw_dirhist_2='/Users/mkuhnt/Development/tripledot/medas-support/app/controllers'
+let g:netrw_dirhist_3='/Users/mkuhnt/Development/tripledot/medas-support'
+let g:netrw_dirhist_4='/Users/mkuhnt/Development/tripledot/medas-support/test'
+let g:netrw_dirhist_5='/Users/mkuhnt/Development/tripledot/medas-support/test/functional'
+let g:netrw_dirhist_6='/Users/mkuhnt/Development/tripledot/medas-support/test'
+let g:netrw_dirhist_7='/Users/mkuhnt/Development/tripledot/medas-support/test/functional'
+let g:netrw_dirhist_8='/Users/mkuhnt/.zsh'
